@@ -21,4 +21,4 @@ COPY . .
 EXPOSE 8003
 
 # Запускаем через gunicorn
-CMD ["gunicorn", "--bind", "0.0.0.0:8003", "app:app"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8003", "main:app"]
