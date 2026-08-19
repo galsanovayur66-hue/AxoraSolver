@@ -2,7 +2,7 @@ flask
 requests
 pycryptodome
 cryptography
-execjs
+pyexecjs
 colorama
 numpy
 colr
