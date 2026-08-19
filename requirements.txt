@@ -1,0 +1,9 @@
+flask
+requests
+pycryptodome
+cryptography
+execjs
+colorama
+numpy
+colr
+gunicorn
